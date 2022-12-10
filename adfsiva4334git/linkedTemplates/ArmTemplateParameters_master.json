@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adfsiva4334git"
 		},
+		"AzureBlobStorageconnection_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
