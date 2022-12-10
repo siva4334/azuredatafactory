@@ -1,0 +1,9 @@
+{
+	"name": "adfsiva4334git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43dd9eaa-a246-409f-a522-62217fc2bffd",
+		"tenantId": "280a4864-0e45-4fcf-a1e0-cf1c4d75585c"
+	}
+}
